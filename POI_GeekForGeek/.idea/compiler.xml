@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Apache_POI_GeekForGeek" />
+        <module name="POI_GeekForGeek" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11.5" />
   </component>
 </project>
